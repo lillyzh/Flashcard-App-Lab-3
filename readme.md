@@ -6,6 +6,8 @@ A fully fuctional flashcard mobile application that save memories on a disk
 ### App Walk-though
 <img src="http://g.recordit.co/C5CET5z7Ju.gif" width=200><br>
 <img src="http://g.recordit.co/PF0TuKMIh5.gif" width=200><br>
+<img src="http://g.recordit.co/p13D0VdSSe.gif" width=200><br>
+<img src="http://g.recordit.co/BgrfsDyJt1.gif" width=200><br>
 
 ## Required
 - [X] User can browse through multiple flashcards
