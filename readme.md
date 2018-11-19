@@ -1,7 +1,7 @@
 ## Lab 3
 
 ### App Description
-A fully fuctional flashcard mobile application that save memories on a disk 
+A fully fuctional flashcard mobile application that let user delete a flashcard, edit existing flashcard, store multiple choice questions, browse through multiple flashcards, and re-open the app and see previously created flashcards. 
 
 ### App Walk-though
 <img src="http://g.recordit.co/C5CET5z7Ju.gif" width=200><br>
