@@ -12,9 +12,9 @@ A fully fuctional flashcard mobile application that save memories on a disk
 - [X] User can re-open the app and see previously created flashcards
 - [X] Push code to GitHub
 ## Optional
-- [ ] User can delete a flashcard
-- [ ] User can edit existing flashcard
-- [ ] User can store multiple choice questions
+- [X] User can delete a flashcard
+- [X] User can edit existing flashcard
+- [X] User can store multiple choice questions
 
 ## Lab 2
 
